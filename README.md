@@ -1,2 +1,29 @@
 # hello-world
-organize a single project. can contain folders and files, images, videos, spreadsheets, and data sets – anything project needs.  a README, or a file with information about your project.  It also offers other common options such as a license file. Your hello-world repository can be a place where you store ideas, resources, or even share and discuss things with others.
+
+What am I doing here ?
+
+Well, I've created a Repository named "hello-world",
+& a branch named "readme-edits", which is a copy of the main master branch.
+
+Branching is the way to work on different versions of a repository at one time.
+By default my repository has one branch named "main" which is considered to be the definitive branch. 
+We use branches to experiment and make edits before committing them to "main".
+Its like saving different versions of a file.
+Users, Developers, writers, and designers use branches for keeping bug fixes and feature work separate from our "main" (production) branch. 
+When a change is ready, they merge their branch into "main".
+
+When you create a branch off the main branch, you’re making a copy, or snapshot, of main as it was at that point in time. 
+
+If someone else made changes to the main branch while you were working on your branch, you could pull in those updates.
+On GitHub, saved changes are called commits, like editing a file.
+Each commit has an associated commit message, which is a description explaining why a particular change was made. 
+Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why.
+
+Click the  pencil icon in the upper right corner of the file view to edit.
+In the editor, write a bit about yourself.
+Write a commit message that describes your changes.
+Click Commit changes button.
+
+These changes will be made to just the README file on your readme-edits branch, 
+so now this branch contains content that’s different from main.
+
