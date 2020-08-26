@@ -1,8 +1,8 @@
 # hello-world
 
-What am I doing here ?
 
-Well, I've created a Repository named "hello-world",
+
+I've created a Repository named "hello-world",
 & a branch named "readme-edits", which is a copy of the main master branch.
 
 Branching is the way to work on different versions of a repository at one time.
